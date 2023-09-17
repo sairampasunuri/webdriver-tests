@@ -23,6 +23,7 @@ public class TC002_JustLoginUpdated extends ProjectHooks{
 		.enterPassword(password)
 		.clickLogin();
 system.out.println("Hello to webhook");
+		system.out.println("Hello to webhook and pipeline test");
 	}
 
 }
